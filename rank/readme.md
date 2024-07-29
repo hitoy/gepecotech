@@ -1,6 +1,6 @@
 # 文章列表
 
-* [GD5 Shear Shredder Used in Pouch Battery Recycling Project](./GD5 Shear Shredder Used in Pouch Battery Recycling Project.md)
+* [GD5 Shear Shredder Used in Pouch Battery Recycling Project](./GD5%20Shear%20Shredder%20Used%20in%20Pouch%20Battery%20Recycling%20Project.md)
 * [GEP ECOTECH Accelerates Waste-to-Fuel Conversion in South Korea’s Industrial Parks](./GEP ECOTECH Accelerates Waste-to-Fuel Conversion in South Korea’s Industrial Parks.md)
 * [GEP ECOTECH Biomass Shredders Accelerate Green Power Production in the Philippines](./GEP ECOTECH Biomass Shredders Accelerate Green Power Production in the Philippines.md)
 * [GEP ECOTECH Collaborates with Leading Public Company on Fiber-Reinforced Plastics Co-Processing Project](./GEP ECOTECH Collaborates with Leading Public Company on Fiber-Reinforced Plastics Co-Processing Project.md)
