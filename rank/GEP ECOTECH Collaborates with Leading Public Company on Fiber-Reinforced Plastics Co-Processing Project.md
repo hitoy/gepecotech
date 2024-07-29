@@ -10,5 +10,5 @@ In Shandong, China, GEP ECOTECH has partnered with a publicly listed company to 
 
 Fiber-reinforced plastics are widely used materials known for their strength and durability. However, their disposal poses significant challenges due to their complex composition. By utilizing GEP ECOTECH's advanced shredding technology, the partnership aims to turn these waste materials into valuable alternative fuels, thereby reducing environmental impact and promoting sustainable resource management.
 
-About GEP ECOTECH
+## About GEP ECOTECH
 GEP ECOTECH is a leading provider of advanced waste processing and recycling solutions. Our state-of-the-art shredding systems, including dual-stage shredders and shear shredders, are designed to handle diverse materials efficiently. In the field of fiber-reinforced plastics recycling, our systems ensure the material is processed into manageable sizes for further use as alternative fuels. By continuously innovating and customizing our solutions, we help clients achieve their sustainability goals, reduce environmental impact, and enhance resource recovery processes.

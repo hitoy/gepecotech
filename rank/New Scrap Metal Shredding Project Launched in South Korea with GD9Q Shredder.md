@@ -13,4 +13,4 @@ This project adds to the growing list of successful metal recycling initiatives 
 GEP ECOTECH offers a range of specialized shredders tailored to different pre-processing needs, including [pre-shredders](https://www.aishred.com/product/pre-shredder.html), [shear shredders](https://www.aishred.com/tag/rotary-shear-shredder/), and [large single-shaft shredders](https://www.aishred.com/product/single-shaft-shredder.html). The company has also developed an electrified shredding system for battery recycling, enabling efficient recovery of valuable metals such as lithium and cobalt.
 
 ## About GEP ECOTECH
-GEP ECOTECH is a**leading manufacturer of solid waste processing equipment**, specializing in shredding and sorting technology across various industries. With a focus on innovation and sustainability, the company provides comprehensive recycling solutions to clients worldwide.
+GEP ECOTECH is a **leading manufacturer of solid waste processing equipment**, specializing in shredding and sorting technology across various industries. With a focus on innovation and sustainability, the company provides comprehensive recycling solutions to clients worldwide.
